@@ -1,0 +1,2 @@
+# chainOfResponsability
+Padrao chainOfResponsability
